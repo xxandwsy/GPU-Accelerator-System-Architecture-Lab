@@ -1,1 +1,1 @@
-# GPU-Accelerator-System-Lab
+# GPU-Accelerator-System-Architecture-Lab
